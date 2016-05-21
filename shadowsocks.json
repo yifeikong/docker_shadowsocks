@@ -1,0 +1,7 @@
+{
+    "server_port": "10086",
+    "password": "jkrowling",
+    "method": "aes-256-cfb",
+    "fast_open": true
+}
+
