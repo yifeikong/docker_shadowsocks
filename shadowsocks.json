@@ -1,5 +1,5 @@
 {
-    "server_port": "10086",
+    "server_port": "8086",
     "password": "jkrowling",
     "method": "aes-256-cfb",
     "fast_open": true
